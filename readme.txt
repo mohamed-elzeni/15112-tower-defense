@@ -27,7 +27,6 @@ How to run the game:
 	- tower.py
 
 - This game uses the pygame module. You should have pip and the pygame module installed before running the game. Here is a tutorial on how to install pygame: https://www.pygame.org/wiki/GettingStarted (this is from the official pygame wiki website)
-
 - Run the tower-defense.py in an IDE after successfully installing pygame
 
 -------------------------------------------------------------
